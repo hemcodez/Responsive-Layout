@@ -1,4 +1,4 @@
-﻿## 🍵💻| Project 2
+﻿## 🍵💻| Project 02
 ### Responsive CSS Grid Layout 📝
 >Status: *Completed*
 
